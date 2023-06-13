@@ -1,0 +1,19 @@
+{
+  "name": "land-leasing-dapp",
+  "version": "1.0.0",
+  "description": "A decentralized application for leasing and renting land worldwide.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "web3": "^1.5.2"
+  },
+  "devDependencies": {
+    "hardhat": "^2.15.0"
+  }
+}
