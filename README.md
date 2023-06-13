@@ -29,7 +29,7 @@ Land-Leasing DApp is a platform that connects landowners and tenants, allowing t
 
 ### Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/juliustago/land-leasing-dapp
 2. Install dependencies: `npm install`
 
 ### Configuration
